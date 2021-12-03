@@ -2,8 +2,8 @@
 
 Refractor e-commerce platform from using global state React's Contect API to Redux.
 
-### Github : https://github.com/sylviaprabudy/redux-store
-### Website : https://redux-store-shop.herokuapp.com/
+### Github : https://github.com/chen199932/22-State-Homework-Redux-Store
+### Website : https://ancient-shore-88343.herokuapp.com/
 
 
 ## Description
@@ -28,18 +28,7 @@ E-commerce website that allows user to login and purchase items, also see their 
 - All the items pruchased will be saved in the history.
 
 
-## Gif Walkthrough
-![](client/public/images/addcart.gif)
-![](client/public/images/login-payment.gif)
 
 
-## Technologies Use
-<p><a href="https://redux.js.org/">Redux</a></p>
-<p><a href="https://reactjs.org/">React.js</a></p>
-<p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p><a href="https://nodejs.org/">Node.js</a></p>
 
-
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
 - - -
